@@ -14,6 +14,9 @@ package main
 	    fmt.Println("Welcome to my profile")
     }
 ```
+<h3>⚡️ Status:</h3>
+
+![profile count](https://komarev.com/ghpvc/?username=rashid2003&color=red)&nbsp;
 
 <!--
 **rashid2003/rashid2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
