@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋</h1>
+<h1 align="center">Hi 👋, I'm Rashid</h1>
 
 <!-- - ⚡ Current challenge: one project per language... [Read more](https://github.com/rashid2003/rashid2003/blob/main/one_project_per_language.md)	
 - Now: Lua - High-level programming language
